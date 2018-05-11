@@ -1,4 +1,4 @@
 # AIND
-Projets of Udacity's Aritficial Intelligence Nanodegree Program
+Projects of Udacity's Artificial Intelligence Nanodegree Program
 
 Author: Sean Alec
